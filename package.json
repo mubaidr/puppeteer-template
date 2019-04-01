@@ -44,7 +44,7 @@
     "eslint-plugin-react": "^7.12.4",
     "eslint-plugin-standard": "^4.0.0",
     "eslint-plugin-vue": "next",
-    "eslint": "^5.14.1"
+    "eslint": "^5.16.0"
   },
   "engines": {
     "node": ">=7.6.0"
